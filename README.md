@@ -3,7 +3,7 @@
 
 **Modern, customizable sound pad for Windows** — built for streamers, gamers, and anyone who needs instant audio playback.
 
-> 🎵 Play, 🔴 record, and 🎛️ manage sounds effortlessly with a sleek interface and powerful features.
+> 🎵 Play, 🔴 record, and 🎛️ manage sounds effortlessly with a sleek interface and powerful features. Showcase video - https://youtu.be/mmF3pLoJfKE?si=BM-z7VgjcgPSz30T
 
 ---
 ## 🤔 What Is It For?
